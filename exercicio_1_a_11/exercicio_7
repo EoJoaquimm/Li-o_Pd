@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2> Reset Button </h2>
+
+<form action="/action_page.php">
+    <label for="birthday">Data de nascimento:</label><br>
+    <input type="date" id="fname" name="birthday"> 
+
+    <input type="submit" value="Enviar">
+    
+    </form>
+
+</body>
+</html>

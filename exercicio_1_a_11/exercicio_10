@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<style>
+
+.centralizer {
+  text-align: center;
+  color: red;
+    
+}
+
+.titulos{
+  font-size: 300%;
+  text-align: center;  
+  color:red ;
+}
+</style>
+</head>
+<body>
+    Para definir uma classe em CSS smpre iniciamos com (ponto) - neste exemplo foram criadas duas classes!!!
+<p class="centralizer"> Vermelho e centralizado</p>
+<p class="titulos"> Vermelho, centralizado e tamanho maior.</p>
+</body>
+</html>

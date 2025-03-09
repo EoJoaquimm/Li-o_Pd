@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Caixa de Texto  </h2>  
+<P>The <strong>input type="text"</strong> É o comando para entrada de texto:</P>
+<form action="arquivoqueiraprocessarestesdados.php">
+    <label for="fname"> Primeiro nome:</label><br>
+    <input type="text" id="fname" name="fname"><br>
+    <label for="Iname">Ultimo nome:</label><br>
+    <input type="text" id="Iname" name="Iname"><br><br>
+    <input type="submit" value="Enviar Dados">
+    </form>
+
+    <p>Observe que a tag form não aparece na tela.</p>
+
+<a href="exercicio2.html"> PAGINA 2 </a>
+
+
+
+</body>
+</html>

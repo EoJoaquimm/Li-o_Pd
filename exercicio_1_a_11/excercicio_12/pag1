@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caixa de Texto</title>
+    <link rel="stylesheet" href="estilo.css"> 
+</head>
+<body>
+    <h2>Caixa de Texto</h2>  
+    <p>The <strong>input type="text"</strong> é o comando para entrada de texto:</p>
+    <form action="arquivoqueiraprocessarestesdados.php">
+        <label for="fname">Primeiro nome:</label><br>
+        <input type="text" id="fname" name="fname"><br>
+        <label for="Iname">Último nome:</label><br>
+        <input type="text" id="Iname" name="Iname"><br><br>
+        <input type="submit" value="Enviar Dados">
+    </form>
+
+    <p>Observe que a tag form não aparece na tela.</p>
+
+    <a href="pag2.html">Página 2</a> | 
+    <a href="pag3.html">Página 3</a> | 
+    <a href="pag4.html">Página 4</a> 
+</body>
+</html>

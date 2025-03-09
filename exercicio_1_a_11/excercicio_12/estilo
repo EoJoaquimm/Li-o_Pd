@@ -1,0 +1,50 @@
+/* Resetando margens e paddings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo do body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+}
+
+/* Títulos */
+h2 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #3498db;
+    padding: 10px;
+}
+
+a:hover {
+    color: #1abc9c;
+}
+
+/* Formulários */
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="text"], input[type="radio"] {
+    margin-top: 5px;
+}
+
+/* Estilo de parágrafo */
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}

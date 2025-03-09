@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2> Reset Button </h2>
+
+<form action="gravardados.php">
+    <label for="fullname">Nome Completo:</label><br>
+    <input type="text" id="fname" name="fname" value="Marinke"><br>
+    <input type="submit" value="Enviar">
+    <input type="reset" value="Limpar">
+    </form>
+
+</body>
+</html>

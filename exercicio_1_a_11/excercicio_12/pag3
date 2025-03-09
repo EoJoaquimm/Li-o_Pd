@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texto Formatado com CSS</title>
+    <link rel="stylesheet" href="estilo.css"> 
+    <style>
+        p {
+            color: red;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <p>"Hello World"</p>
+    <p>Este parágrafo é formatado usando CSS</p>
+
+    <a href="pag1.html">Página 1</a>  
+    <a href="pag2.html">Página 2</a>  
+    <a href="pag4.html">Página 4</a> 
+</body>
+</html>

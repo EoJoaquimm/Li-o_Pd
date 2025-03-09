@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<style>
+
+body {
+  background-color: lightblue; 
+    
+}
+
+h1{
+  color: white;
+  text-align: center;  
+
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;  
+}
+
+</style>
+</head>
+<body>
+<h1>Código CSS dentro do arquivo HTML.</h1>
+ <p>Observe que este parágrafo recebe a formatação definida na classe</p>   
+
+</body>
+</html>

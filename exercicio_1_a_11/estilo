@@ -1,0 +1,25 @@
+
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif; 
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+
+.texto-titulo {
+    text-align: center;
+    color: red;
+}
+
+.texto-normal {
+    text-align: left;
+    color: blue;
+   
+}

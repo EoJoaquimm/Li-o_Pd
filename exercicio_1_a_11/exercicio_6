@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Color Picker  </h2>  
+
+    <label for="favcolor"> Escolha a cor:</label>
+    <input type="color" id="favcolor" name="favcolor" value="#4F4F4F">
+    <input type="submit" value="Submit"><br>
+    </form>
+Pesquise tabela de cores em Hexadecimal e altere a opção "value" no comando.
+
+
+
+
+
+</body>
+</html>

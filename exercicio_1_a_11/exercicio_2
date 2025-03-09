@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2> Senha </h2>
+
+<P>O <strong>input type="password"</strong> Define um  campo  Senha:</P>
+<form action="/action.php">
+    <label for="username">Usuário</label><br>
+    <input type="text" id="username" name="username"><br>
+    <label for="pwd">Senha:</label><br>
+    <input type="password" id="pwd" name="pwd"><br><br>
+    <input type="submit" value="Efetuar Login">
+    </form>
+
+    <a href="exercicio1.html"> VOLTAR </a>
+
+</body>
+</html>

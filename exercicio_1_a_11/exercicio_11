@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo CSS e HTML</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <h1>Formatação para o comando H1 está contida no arquivo estilo.css</h1>
+    <p class="texto-titulo">Formatação para o comando p com a classe "texto-titulo" está contida no arquivo estilo.css</p>
+    <p class="texto-normal">Aqui aplicamos uma outra classe CSS, chamada "texto-normal".</p>
+</body>
+</html>

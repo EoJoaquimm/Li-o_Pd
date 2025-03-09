@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Checkboxes</h2>
+
+<form action="/gravar.php">
+    <input type="checkbox" id="vechile1" name="vechile1" value="mobilete"><br>
+    <label for="vechile1">mobilete</label><br>
+
+    <input type="checkbox" id="vechile2" name="vechile2" value="patinete"><br>
+    <label for="vechile2">patinete</label><br>
+
+    <input type="checkbox" id="vechile3" name="vechile3" value="patinete"><br>
+    <label for="vechile3">Gol bola</label><br>
+    <input type="submit" value="Enviar">
+    
+    </form>
+
+</body>
+</html>

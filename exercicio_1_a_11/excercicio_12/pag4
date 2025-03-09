@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página 4</title>
+    <link rel="stylesheet" href="estilo.css"> 
+</head>
+<body>
+    <h2>Página 4: Exemplo de Imagem</h2>
+    <p>Esta é a quarta página do site. Abaixo, temos um exemplo de uma imagem.</p>
+
+    <img src="imagem-exemplo.jpg" alt="Imagem Exemplo" width="300">
+
+    <a href="pag1.html">Página 1</a>  
+    <a href="pag2.html">Página 2</a>  
+    <a href="pag3.html">Página 3</a> 
+</body>
+</html>
